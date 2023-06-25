@@ -1,4 +1,4 @@
-spoofed_email = 'mylasustech@edu.ng'
+spoofed_email = '' # email addres to be spoofed
 reciever_email = ''   # Fill variable if sending mail to a single email
 subject = 'this is test'
 message = ''
