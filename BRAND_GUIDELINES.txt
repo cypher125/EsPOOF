@@ -1,0 +1,168 @@
+# MOMENTUM OUTBOUND - BRAND GUIDELINES
+
+## Company Overview
+
+Momentum Outbound is a Pipeline-as-a-Service company that provides end-to-end SDR (Sales Development Representative) functions for B2B companies without the need to hire, train, or manage internal teams.
+
+## Our Value Proposition
+
+We deliver 15-25 qualified meetings per month for our clients while reducing costs by 60-70% compared to building an in-house SDR team. Our unique approach combines AI-powered research with experienced human sales professionals to create highly personalized, results-driven outbound campaigns.
+
+## What We Offer
+
+### Core Services
+- **Pipeline-as-a-Service**: Complete SDR function from research to meeting booking
+- **Signal-Led Targeting**: We identify and engage in-market accounts using intent data
+- **AI + Human Hybrid Model**: AI handles research and data analysis, humans handle conversations
+- **Multi-Channel Outreach**: Email, LinkedIn, phone calls, and personalized video
+- **Performance Guarantee**: Pay only for meetings booked, not activities
+
+### Technology Stack
+- Proprietary AI research engine
+- Intent signal tracking (Gojiberry, Apollo)
+- CRM integration (HubSpot, Salesforce, Zoho)
+- Email deliverability infrastructure
+- Real-time reporting dashboard
+
+## Target Audience
+
+### Primary ICP (Ideal Customer Profile)
+- **Company Size**: B2B SaaS companies, 10-500 employees
+- **Revenue Stage**: $1M-$50M ARR
+- **Decision Makers**: VP Sales, CROs, CEOs, Heads of Revenue
+- **Pain Points**: 
+  - High cost of hiring and training SDRs ($150K+ per SDR)
+  - Inconsistent pipeline generation
+  - Difficulty scaling outbound without quality drop
+  - Low response rates from spray-and-pray approaches
+  - Long ramp time for new SDR hires (4-6 months)
+
+### Secondary Markets
+- Professional services firms (consulting, agencies)
+- B2B technology companies
+- Manufacturing with complex sales cycles
+
+## Brand Voice & Tone
+
+### Voice Characteristics
+**Direct & Senior-to-Senior**: We speak to executives as peers, not prospects. No jargon, no fluff, just straight talk about business outcomes.
+
+**Results-Focused**: Every message should tie back to measurable outcomes - meetings booked, pipeline generated, cost savings achieved.
+
+**Confident but Not Arrogant**: We know our model works (proven track record), but we don't oversell or make unrealistic promises.
+
+**Conversational**: Write like you're having a conversation with a smart colleague over coffee, not delivering a sales pitch.
+
+### Tone Guidelines
+
+**DO:**
+- Use specific numbers and metrics (15-25 meetings/month, 60-70% cost reduction)
+- Reference real challenges our prospects face
+- Ask thoughtful questions that make them think
+- Keep emails under 150 words
+- Lead with their business, not our services
+- Use "we help companies like yours" framing
+
+**DON'T:**
+- Use hype language ("revolutionary," "game-changing," "disruptive")
+- Talk about features before establishing relevance
+- Send generic spray-and-pray messages
+- Pretend to know their business better than they do
+- Use all caps, excessive exclamation points, or emoji
+- Lead with "I hope this email finds you well" or similar fluff
+
+### Writing Style Examples
+
+**GOOD:**
+"Saw you scaled from 9 brands to 7-figures with 2 exits - impressive track record. That experience probably means you're selective about how you spend time on client acquisition. We help service providers like you generate 15-25 qualified meetings/month without building an in-house SDR team. Worth 15 minutes to explore?"
+
+**BAD:**
+"Hi! I hope this email finds you well! I wanted to reach out because we have a REVOLUTIONARY new approach to sales development that can TRANSFORM your pipeline! We'd love to show you our AMAZING platform!"
+
+### Email Structure Template
+1. **Subject Line**: 4-6 words, curiosity-driven, sentence case
+2. **Hook**: Reference something specific about them (achievement, content, signal)
+3. **Bridge**: Connect the hook to their business challenge
+4. **Value Prop**: What we do and the outcome (1-2 sentences max)
+5. **CTA**: Low-friction ask ("Worth exploring?" "Curious if this fits?")
+
+## Messaging Framework
+
+### Our Positioning
+"The AI-powered SDR team that delivers meetings, not activities"
+
+### Key Differentiators
+1. **Hybrid Model**: AI does research, humans do conversations (not chatbots)
+2. **Performance-Based**: Pay per meeting, not per seat
+3. **Speed to Value**: Live in 2 weeks, meetings in week 3
+4. **Signal-Led**: Only engage in-market accounts
+5. **Full-Service**: We own the entire process from research to booking
+
+### Objection Handling
+
+**"We already have an SDR team"**
+→ "Most companies who work with us keep their internal team for inbound and strategic accounts. We handle high-volume outbound so your team can focus on what they do best. Think of us as your outsourced capacity."
+
+**"We tried outbound before, it didn't work"**
+→ "The difference is personalization at scale. Most outbound fails because it's either personalized but slow, or fast but generic. Our AI + human model lets us do both - research-driven personalization delivered at volume."
+
+**"We don't have budget for this"**
+→ "Understood. For context, one junior SDR costs $150K/year (salary, tools, management time). We deliver similar output for 60-70% less and you can pause anytime. Worth looking at the math?"
+
+**"We need to think about it"**
+→ "Totally fair. What specifically would you need to see to feel confident this could work for [their company]? Happy to show you a sample research output or introduce you to a similar client."
+
+## Visual Identity (Not in MVP)
+- Primary Color: Navy Blue (#1a2332)
+- Secondary Color: Electric Blue (#0066ff)
+- Accent: Bright Green (#00d084)
+- Font: Inter (clean, modern, professional)
+
+## Compliance & Legal
+- All emails include unsubscribe link
+- GDPR and CAN-SPAM compliant
+- No purchased lists, only researched prospects
+- Respect "do not contact" requests immediately
+- Transparent about who we are (no fake domains)
+
+## Success Metrics We Track
+- Meetings booked per month
+- Show rate (% of booked meetings that happen)
+- Pipeline generated ($)
+- Cost per meeting
+- Response rate
+- Email deliverability
+- Time to first meeting
+
+## Competitive Landscape
+
+**vs. Traditional SDR Agencies**
+- They charge per seat ($8-12K/month per SDR), we charge per result
+- They use junior contractors, we use experienced professionals + AI
+
+**vs. Building In-House**
+- 60-70% cost reduction
+- No hiring, training, or management overhead
+- Faster time to value (weeks vs. months)
+
+**vs. AI-Only Tools**
+- AI alone gets poor results (generic, robotic)
+- We combine AI research with human touch
+
+## Client Case Studies (Reference Points)
+
+**SaaS Company, $5M ARR**
+- Previous: 2 internal SDRs, 8 meetings/month, $25K/month cost
+- With us: 20 meetings/month, $9K/month cost
+- Result: 150% more meetings, 64% cost reduction
+
+**Professional Services Firm**
+- Previous: No outbound, relied on referrals
+- With us: 18 meetings/month with target accounts
+- Result: 3 new clients ($450K in services) in 6 months
+
+---
+
+**Last Updated**: October 2024
+**Document Owner**: Marketing & Sales Team
+**Version**: 2.1
